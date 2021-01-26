@@ -1,0 +1,22 @@
+{
+  "name": "journal",
+  "version": "1.0.0",
+  "description": "blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UnderMemory/le_journal_de_chi.git"
+  },
+  "keywords": [
+    "chat"
+  ],
+  "author": "elodie bidard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UnderMemory/le_journal_de_chi/issues"
+  },
+  "homepage": "https://github.com/UnderMemory/le_journal_de_chi#readme"
+}
